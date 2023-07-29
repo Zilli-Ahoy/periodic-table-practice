@@ -16,7 +16,7 @@ To run this website
  *   type.html
  *   press.html
  *   style.css
- *   javascript.js
+ *   script.js
    
 4. Open the files in your txt editer (eg: notepad, word, textedit)
 5. Copy and past the code in the file with the matching name and save
