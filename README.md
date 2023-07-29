@@ -13,10 +13,11 @@ To run this website
 2. Create 5 txt files in the folder
 3. Rename 
  *   home.html
-    type.html
-    press.html
-    style.css
-    javascript.js*
+ *   type.html
+ *   press.html
+ *   style.css
+ *    javascript.js
+   
 4. Open the files in your txt editer (eg: notepad, word, textedit)
 5. Copy and past the code in the file with the matching name and save
 6. Once all 5 files are done, double click *home.html* and you are all set to go!
